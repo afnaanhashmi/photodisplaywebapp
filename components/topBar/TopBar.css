@@ -1,0 +1,21 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.righthandside{
+  justify-content: 'flex-end';
+}
+
+.top{
+  display: flex;
+  align-items: space-between;
+}
+
+.buffer{
+  flex-grow: 1;
+}
+
+.rightside{
+  margin-block: 5px;
+}

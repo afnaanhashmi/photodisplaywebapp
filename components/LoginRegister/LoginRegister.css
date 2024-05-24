@@ -1,0 +1,11 @@
+.stacking{
+    margin-block: 5px;
+  }
+
+  #username{
+    background-color: azure;
+  }
+
+  #pwd{
+    background-color: aqua;
+  }

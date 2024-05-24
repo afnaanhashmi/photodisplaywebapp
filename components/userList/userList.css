@@ -1,0 +1,27 @@
+#listofuser:hover {
+background-color: lightgray;
+}
+
+.commentColor{
+    background-color: blanchedalmond;
+    border-color: 2px black;
+    border-style: solid;
+}
+
+.userColor{
+    background-color:thistle;
+    border-color: 2px black;
+    border-style: solid;
+}
+
+.photoColor{
+    background-color:aliceblue;
+    border-color: 2px black;
+    border-style: solid;
+}
+
+.otherColor{
+    background-color: seashell;
+    border-color: 2px black;
+    border-style: solid;
+}

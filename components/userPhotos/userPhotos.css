@@ -1,0 +1,24 @@
+.post_box{
+    display: flex;
+    background-color: aqua;
+    margin-block: 15px;
+}
+
+.comment{
+    display: block;
+    margin-left: 4%;
+}
+.commentlist{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-block: 5px;
+}
+
+img{
+    max-width:70%;
+    max-height: 10%;
+}
+
+.stackelems{
+    display: grid;
+}
